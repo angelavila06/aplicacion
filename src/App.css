@@ -343,6 +343,15 @@ body {
   color: var(--text-muted);
 }
 
+.form-label {
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 6px;
+}
+
 .add-btn {
   width: 100%;
   padding: 13px;
