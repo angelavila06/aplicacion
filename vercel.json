@@ -1,0 +1,4 @@
+{
+  "buildCommand": "react-scripts build",
+  "framework": "create-react-app"
+}
